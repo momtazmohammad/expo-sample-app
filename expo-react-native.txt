@@ -1,0 +1,25 @@
+https://snack.expo.dev/?platform=web
+https://docs.expo.dev/get-started/installation/
+https://reactnative.dev/docs/components-and-apis
+https://reactnative.dev/docs/flexbox
+https://docs.expo.dev/tutorial/build-a-screen/
+https://docs.expo.dev/build-reference/apk/
+
+Platform Compatibility
+
+Cross-Platform Harmony: React Native allows you to build mobile apps that seamlessly run on both iOS and Android platforms using a single codebase. 
+expo CLI
+expo go
+android studio (for ios need mack device)
+Running your app on a simulator or virtual device
+
+npx create-expo-app@latest
+npx expo start
+Break down the app layout and implement it with flexbox
+Handle platform differences between Android, iOS, and web
+https://docs.expo.dev/tutorial/build-a-screen/
+
+
+Pressable and TouchableOpacity
+eas build -p android --profile preview
+Expo Application Services (EAS)
